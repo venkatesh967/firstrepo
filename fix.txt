@@ -1,1 +1,3 @@
-this is insane.
+
+this is about merge conflict.
+
